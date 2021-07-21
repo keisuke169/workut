@@ -6,9 +6,10 @@ For this purpose we are extending the `<Document />` and injecting the server si
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Preview the example live on [Workut-App](https://workut.vercel.app/):
+<!-- Preview the example live on [StackBlitz](http://stackblitz.com/): -->
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-styled-components)
+<!-- [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-styled-components) -->
 
 ## Deploy your own
 
